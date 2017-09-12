@@ -1,5 +1,5 @@
 #coding:utf-8
-from test0605 import randint
+from random import randint
 
 num = randint(1,100)
 bingo = False

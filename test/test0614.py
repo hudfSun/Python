@@ -1,7 +1,6 @@
 #coding:utf-8
-import math
-l=[3,5,1,3]
-print sorted(l)
 
-print l[::-1]
-fugdjqdj 
+a = 1
+b = 2
+a , b = b , a
+print '交换过后a的值为%d,b的值为%d'%(a , b)
